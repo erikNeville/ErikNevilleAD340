@@ -1,4 +1,4 @@
-package com.example.erik.eriknevilead340;
+package com.neville.erik.eriknevilead340;
 
 public class TrafficModel {
     private String description;

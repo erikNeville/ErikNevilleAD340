@@ -1,4 +1,4 @@
-package com.example.erik.eriknevilead340;
+package com.neville.erik.eriknevilead340;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

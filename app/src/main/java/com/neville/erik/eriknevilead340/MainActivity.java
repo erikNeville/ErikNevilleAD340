@@ -1,4 +1,4 @@
-package com.example.erik.eriknevilead340;
+package com.neville.erik.eriknevilead340;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private static final String TAG = "MainActivity";
 
     public static final int ERROR_DIALOG_REQUEST = 9001;
-    public static final String EXTRA_MESSAGE = "com.example.erik.eriknevilead340";
+    public static final String EXTRA_MESSAGE = "com.neville.erik.eriknevilead340";
 
     ImageView img1, img2, img3, img4;
     private DrawerLayout drawer;

@@ -1,4 +1,4 @@
-package com.example.erik.eriknevilead340;
+package com.neville.erik.eriknevilead340;
 
 
 import org.junit.Rule;
@@ -16,8 +16,8 @@ import static android.support.test.espresso.assertion.ViewAssertions.matches;
 import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.isDisplayed;
 
-import com.example.erik.eriknevilead340.MainActivity;
-import com.example.erik.eriknevilead340.R;
+import com.neville.erik.eriknevilead340.MainActivity;
+import com.neville.erik.eriknevilead340.R;
 
 public class TextEntryUI {
 

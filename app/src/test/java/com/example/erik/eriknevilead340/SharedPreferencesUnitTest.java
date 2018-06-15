@@ -1,4 +1,4 @@
-package com.example.erik.eriknevilead340;
+package com.neville.erik.eriknevilead340;
 
 
 import android.content.SharedPreferences;
@@ -14,7 +14,7 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 
-import com.example.erik.eriknevilead340.SharedPreferencesHelper;
+import com.neville.erik.eriknevilead340.SharedPreferencesHelper;
 
 @RunWith(MockitoJUnitRunner.class)
 public class SharedPreferencesUnitTest {

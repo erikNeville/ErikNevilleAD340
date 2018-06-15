@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.erik.eriknevilead340">
+    package="com.neville.erik.eriknevilead340"
+    android:versionCode="3">
 
     <!-- allows images to be pulled from the web -->
 

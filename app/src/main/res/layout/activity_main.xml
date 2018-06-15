@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:weightSum="10"
-        tools:context="com.example.erik.eriknevilead340.MainActivity">
+        tools:context="com.neville.erik.eriknevilead340.MainActivity">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"

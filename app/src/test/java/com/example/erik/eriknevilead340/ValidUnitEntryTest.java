@@ -1,10 +1,10 @@
-package com.example.erik.eriknevilead340;
+package com.neville.erik.eriknevilead340;
 
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
-import com.example.erik.eriknevilead340.MainActivity;
+import com.neville.erik.eriknevilead340.MainActivity;
 
 public class ValidUnitEntryTest {
     private MainActivity mainActivity = new MainActivity();
