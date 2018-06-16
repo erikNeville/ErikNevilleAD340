@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "neville.AD340.Application"
-        minSdkVersion 27
+        minSdkVersion 19
         targetSdkVersion 27
         versionCode 3
         versionName "3.0"
@@ -48,6 +48,10 @@ dependencies {
     api 'com.google.android.gms:play-services-maps:15.0.1'
 
     testImplementation 'junit:junit:4.12'
+
+    // React Native dependency
+    compile 'com.android.support:appcompat-v7:27.1.1'
+    compile "com.facebook.react:react-native:+"
 
     // picasso
     implementation 'com.squareup.picasso:picasso:2.5.2'
