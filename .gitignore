@@ -7,3 +7,4 @@
 /captures
 .externalNativeBuild
 ._.DS_Store
+node_modules/
